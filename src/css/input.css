@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  @apply font-ff bg-DarkBlue;
+}
+
+main {
+  @apply flex justify-center py-44 px-4;
+}
+
+.card {
+  @apply flex gap-6 flex-col px-10 pt-10 w-32  rounded-xl bg-DarkGrayish;
+}
+
+.title {
+  @apply text-NeonGreen text-center text-base font-medium tracking-widest;
+}
+
+.advice {
+  @apply text-LightCyan text-center text-2xl font-bold;
+}
+
+.dividerImg {
+  @apply mt-4;
+}
+
+.dice {
+  @apply relative top-5 mx-auto;
+}
+
+.getAdvice {
+  @apply p-4 rounded-full bg-NeonGreen transition ease-in-out delay-75 hover:shadow-shadow2xl;
+}
