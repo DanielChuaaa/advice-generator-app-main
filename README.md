@@ -8,7 +8,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](![Uploading image.png…]()
+  - [Screenshot]([fd.pdf](https://github.com/DanielChuaaa/advice-generator-app-main/files/14888104/fd.pdf)
+)
 )
   - [Links](#links)
 - [My process](#my-process)
